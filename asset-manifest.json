@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/number-Counter-in-react/static/css/main.8fd11950.chunk.css",
+    "main.js": "/number-Counter-in-react/static/js/main.8007abb0.chunk.js",
+    "main.js.map": "/number-Counter-in-react/static/js/main.8007abb0.chunk.js.map",
+    "runtime-main.js": "/number-Counter-in-react/static/js/runtime-main.954cdf98.js",
+    "runtime-main.js.map": "/number-Counter-in-react/static/js/runtime-main.954cdf98.js.map",
+    "static/js/2.f8a4447b.chunk.js": "/number-Counter-in-react/static/js/2.f8a4447b.chunk.js",
+    "static/js/2.f8a4447b.chunk.js.map": "/number-Counter-in-react/static/js/2.f8a4447b.chunk.js.map",
+    "static/js/3.dc82ab68.chunk.js": "/number-Counter-in-react/static/js/3.dc82ab68.chunk.js",
+    "static/js/3.dc82ab68.chunk.js.map": "/number-Counter-in-react/static/js/3.dc82ab68.chunk.js.map",
+    "index.html": "/number-Counter-in-react/index.html",
+    "static/css/main.8fd11950.chunk.css.map": "/number-Counter-in-react/static/css/main.8fd11950.chunk.css.map",
+    "static/js/2.f8a4447b.chunk.js.LICENSE.txt": "/number-Counter-in-react/static/js/2.f8a4447b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.954cdf98.js",
+    "static/js/2.f8a4447b.chunk.js",
+    "static/css/main.8fd11950.chunk.css",
+    "static/js/main.8007abb0.chunk.js"
+  ]
+}
